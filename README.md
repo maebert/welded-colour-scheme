@@ -3,6 +3,9 @@ Welded Colour Scheme
 
 Welded is a colour scheme for TextMate (and other supported editors).
 
+![Welded Dark](https://github.com/maebert/welded-colour-scheme/blob/master/Preview/welded.png?raw=true)
+![Welded Light](https://github.com/maebert/welded-colour-scheme/blob/master/Preview/welded.png?raw=true)
+
 ## How to install
 
 ### TextMate
