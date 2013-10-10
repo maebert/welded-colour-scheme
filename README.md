@@ -18,7 +18,7 @@ Download the `.tmTheme` files and place them into your TextMate Theme folder, `~
 
 Go to your Sublime Text 2 `Packages` directory and clone this repository:
 
-    git clone https://github.com/maebert/welded-colour-theme/ "Color Theme - Welded"
+    git clone https://github.com/maebert/welded-colour-scheme.git
 
 #### Manually
 
